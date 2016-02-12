@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.7.2)  11 FEB 2016 12:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.7.2)  12 FEB 2016 14:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -411,7 +411,7 @@ Underfull \hbox (badness 10000) detected at line 90
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--96
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
 
  []
 
@@ -423,12 +423,17 @@ Overfull \hbox (5.26315pt too wide) in paragraph at lines 1--1
 Missing character: There is no   in font cmr9!
 Missing character: There is no   in font cmr9!
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--28
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
 [][]\T1/aer/m/n/9 http://docs.scipy.org/doc/scipy-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--29
+Underfull \hbox (badness 10000) in paragraph at lines 24--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
 
  []
 
@@ -438,17 +443,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--31
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--55
+Underfull \hbox (badness 10000) in paragraph at lines 34--40
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 60--61
+Underfull \hbox (badness 10000) in paragraph at lines 56--59
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--69
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--73
 
  []
 
@@ -460,36 +470,32 @@ File: images/mapping.pdf Graphic file (type pdf)
 Package pdftex.def Info: images/mapping.pdf used on input line 52.
 (pdftex.def)             Requested size: 201.59692pt x 161.2828pt.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 85--91
+Underfull \hbox (badness 10000) in paragraph at lines 89--95
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--100
+Underfull \hbox (badness 10000) in paragraph at lines 96--104
 
  []
 
-
-Overfull \hbox (2.2846pt too wide) in paragraph at lines 101--102
+[4 <./images/mapping.pdf>]
+Overfull \hbox (2.2846pt too wide) in paragraph at lines 105--106
 []\T1/aer/m/n/9 The hy-brid al-go-rithm uses the bi-nary search of Al-go-rithm 
 5[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--115
-
- []
-
-[4 <./images/mapping.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 158--159
+Underfull \hbox (badness 10000) in paragraph at lines 117--119
 
  []
 
 
-Underfull \vbox (badness 3291) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
 
- [5])
-(./experiment.tex
+ []
+
+[5]) (./experiment.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
@@ -579,23 +585,17 @@ Overfull \hbox (20.16959pt too wide) in paragraph at lines 72--74
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (./related.tex
-Underfull \vbox (badness 1867) has occurred while \output is active []
-
-)
-Underfull \hbox (badness 10000) in paragraph at lines 188--191
-
- []
-
-(./KDD_HedayatiJP.bbl [7 <./images/20news.pdf> <./images/cup.pdf
+) (./related.tex) [7 <./images/20news.pdf> <./images/cup.pdf
 
 pdfTeX warning: /usr/texbin/pdflatex (file ./images/cup.pdf): PDF inclusion: mu
 ltiple pdfs with page group included in a single page
 >]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 188--191
 
+ []
 
-Underfull \vbox (badness 1442) has occurred while \output is active []
+(./KDD_HedayatiJP.bbl
+Underfull \vbox (badness 1043) has occurred while \output is active []
 
  [8 <./images/adult.pdf> <./images/tic.pdf
 
@@ -611,7 +611,7 @@ pdfTeX warning: /usr/texbin/pdflatex (file ./images/density.pdf): PDF inclusion
 Here is how much of TeX's memory you used:
  3940 strings out of 494522
  51982 string characters out of 6167206
- 129665 words of memory out of 5000000
+ 132665 words of memory out of 5000000
  7045 multiletter control sequences out of 15000+600000
  71284 words of font info for 95 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
@@ -636,7 +636,7 @@ ve/2014basic/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive
 014basic/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014ba
 sic/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014basic/t
 exmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on KDD_HedayatiJP.pdf (9 pages, 319123 bytes).
+Output written on KDD_HedayatiJP.pdf (9 pages, 319513 bytes).
 PDF statistics:
  306 PDF objects out of 1000 (max. 8388607)
  106 compressed objects within 2 object streams
