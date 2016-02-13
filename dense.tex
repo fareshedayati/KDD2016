@@ -103,7 +103,7 @@ Build a decision tree
 Search for the best split
 \textnormal{
 \begin{algorithmic}[1]
-\Function{FindBestSplit}{$\mathcal{L}_p$}
+\Function{FindBestSplit}{X, $\mathcal{L}_p$}
     \State $\text{best} = -\infty$
     \For{$j \in \{0, \ldots, m-1\}$}
         \State Extract feature values reaching the node
